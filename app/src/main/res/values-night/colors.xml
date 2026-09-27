@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Bảng màu dùng riêng cho Chế độ tối (Dark Mode)-->
+<resources>
+    <color name="primary">#64B5F6</color>
+    <color name="tertiary">#4DB6AC</color>
+    <color name="on_primary">#121212</color>
+    <color name="primary_container">#1E293B</color>
+    <color name="surface">#121212</color>
+    <color name="surface_variant">#1E1E1E</color>
+    <color name="divider">#333333</color>
+    <color name="muted">#A0A0A0</color>
+</resources>
